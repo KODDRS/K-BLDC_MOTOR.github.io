@@ -19,12 +19,12 @@ Github 교육 용도로도 활용할 생각입니다.
 
 가이드를 19 단계의 애니메이션으로 표현
 
-![Simple Guide](assets/img/simple-guide.gif)
+# ![Simple Guide](assets/img/simple-guide.gif)
 
 
 ## 데모 웹사이트
 
-생성된 데모 확인: https://seokho-son.github.io
+생성된 데모 확인: https://K_BLDC_MOTOR.github.io
 
 ## 사사
 
@@ -42,12 +42,12 @@ I will use this repo for educational purpose as well. :)
 
 ## Demo website
 
-Built Demo at https://seokho-son.github.io
+# Built Demo at https://seokho-son.github.io
 
 
 ## Acknowledgement
 
-This repository was cloned from [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll).
+# This repository was cloned from [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll).
 
 
 ---
