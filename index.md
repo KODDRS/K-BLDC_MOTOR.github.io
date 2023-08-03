@@ -2,7 +2,7 @@
 layout: page
 title: K-Series BLDC MOTOR
 subtitle: Korea manufacture Dream Restart Smart, 코드리스
-cover-img: /assets/img/itu-seokho-m4.jpg
+cover-img: /assets/img/K200BLDC.PNG
 ---
 
 <br/>
